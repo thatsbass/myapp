@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "798156677861",
+    "project_id": "peril-54f0d",
+    "storage_bucket": "peril-54f0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798156677861:android:ba1d56e5ca058fffc52a0c",
+        "android_client_info": {
+          "package_name": "com.myapp.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798156677861-17bomnhv6cnpqiqjlu49kmj7avqjjg49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhAD4o3PJscRPmRzfR5h-SglrVodXc598"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798156677861-17bomnhv6cnpqiqjlu49kmj7avqjjg49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798156677861-k95pt9ge69hhj2em063hv9vh3feb9cp2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "localhost.piralApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
